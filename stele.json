@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/lictor-ai/stele/releases/download/v1.0.0/stele_1.0.0_windows_amd64.zip",
+            "bin": [
+                "stele.exe"
+            ],
+            "hash": "f6d9800ae0ac6315a89122576db450b856607a0ef4da0f02228fc8e015e1116e"
+        },
+        "arm64": {
+            "url": "https://github.com/lictor-ai/stele/releases/download/v1.0.0/stele_1.0.0_windows_arm64.zip",
+            "bin": [
+                "stele.exe"
+            ],
+            "hash": "7c99e8c72fddbe3f7c0b4730d53c62d04c76d8aa8f21282cec23f3f070238c25"
+        }
+    },
+    "homepage": "https://github.com/lictor-ai/stele",
+    "license": "Apache-2.0",
+    "description": "Guideline enforcement for coding agents"
+}

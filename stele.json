@@ -1,19 +1,19 @@
 {
-    "version": "1.2.0",
+    "version": "1.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/lictor-ai/stele/releases/download/v1.2.0/stele_1.2.0_windows_amd64.zip",
+            "url": "https://github.com/lictor-ai/stele/releases/download/v1.3.0/stele_1.3.0_windows_amd64.zip",
             "bin": [
                 "stele.exe"
             ],
-            "hash": "c0089cd66743f523808fb55aba10648913c0ceddb832eebd89b1d5ae950bb3f7"
+            "hash": "9ecfb40311404bcb898caa900e95a678d0cea5c8f5d68286a36ab3a6c1ad3e8f"
         },
         "arm64": {
-            "url": "https://github.com/lictor-ai/stele/releases/download/v1.2.0/stele_1.2.0_windows_arm64.zip",
+            "url": "https://github.com/lictor-ai/stele/releases/download/v1.3.0/stele_1.3.0_windows_arm64.zip",
             "bin": [
                 "stele.exe"
             ],
-            "hash": "7b79f81ef0eb4d258b9ebcb88d66cd92c1b3b8de0bb9847e89e210be4ab8a0dc"
+            "hash": "5628073225bf6be6002a9a5a7fbd7a98e041ee65e929624a18fd9363f2cffdd7"
         }
     },
     "homepage": "https://github.com/lictor-ai/stele",

@@ -1,0 +1,22 @@
+{
+    "version": "1.5.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/lictor-ai/stele/releases/download/v1.5.0/stele-checker-opengrep_1.5.0_windows_amd64.zip",
+            "bin": [
+                "stele-checker-opengrep.exe"
+            ],
+            "hash": "9289a9a6259e38a934755788f23dbb9afea8eda9ed02ee31213fd2542050edb8"
+        },
+        "arm64": {
+            "url": "https://github.com/lictor-ai/stele/releases/download/v1.5.0/stele-checker-opengrep_1.5.0_windows_arm64.zip",
+            "bin": [
+                "stele-checker-opengrep.exe"
+            ],
+            "hash": "ac2b071b74ab16e70381c28cb985941e995daea878886c5752991b94c0f9ed1f"
+        }
+    },
+    "homepage": "https://github.com/lictor-ai/stele",
+    "license": "Apache-2.0",
+    "description": "Opengrep checker for stele"
+}

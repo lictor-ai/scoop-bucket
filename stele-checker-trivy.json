@@ -1,0 +1,22 @@
+{
+    "version": "1.5.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/lictor-ai/stele/releases/download/v1.5.0/stele-checker-trivy_1.5.0_windows_amd64.zip",
+            "bin": [
+                "stele-checker-trivy.exe"
+            ],
+            "hash": "15c43bcfa18e242541969a8676ec4ad3ac6add86dc4051d3d444aa8fa6bea657"
+        },
+        "arm64": {
+            "url": "https://github.com/lictor-ai/stele/releases/download/v1.5.0/stele-checker-trivy_1.5.0_windows_arm64.zip",
+            "bin": [
+                "stele-checker-trivy.exe"
+            ],
+            "hash": "834377fd1f3b7148e5f9c0d312e193ecb811a7d3de9f5877ab5cd6d035b37f88"
+        }
+    },
+    "homepage": "https://github.com/lictor-ai/stele",
+    "license": "Apache-2.0",
+    "description": "Trivy checker for stele"
+}

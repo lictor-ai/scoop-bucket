@@ -1,19 +1,19 @@
 {
-    "version": "1.5.0",
+    "version": "1.5.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/lictor-ai/stele/releases/download/v1.5.0/stele-checker-opengrep_1.5.0_windows_amd64.zip",
+            "url": "https://github.com/lictor-ai/stele/releases/download/v1.5.1/stele-checker-opengrep_1.5.1_windows_amd64.zip",
             "bin": [
                 "stele-checker-opengrep.exe"
             ],
-            "hash": "9289a9a6259e38a934755788f23dbb9afea8eda9ed02ee31213fd2542050edb8"
+            "hash": "3a09ae05bd5e6f8a23e0c76db12d577307d3353036099768e36f43e04dea636c"
         },
         "arm64": {
-            "url": "https://github.com/lictor-ai/stele/releases/download/v1.5.0/stele-checker-opengrep_1.5.0_windows_arm64.zip",
+            "url": "https://github.com/lictor-ai/stele/releases/download/v1.5.1/stele-checker-opengrep_1.5.1_windows_arm64.zip",
             "bin": [
                 "stele-checker-opengrep.exe"
             ],
-            "hash": "ac2b071b74ab16e70381c28cb985941e995daea878886c5752991b94c0f9ed1f"
+            "hash": "060643d4120a624bad5ed95447e92e79415016da8de72344bb72d4c0ef017db1"
         }
     },
     "homepage": "https://github.com/lictor-ai/stele",
